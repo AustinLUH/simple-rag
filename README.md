@@ -15,3 +15,5 @@ python demo.py
 | cat-facts.txt | 2 | 3 | Based on the information, a nine-year-old cat would have been awake for only 3 years out of its lifespan.  | Yes |  |
 | cat-db-fiction-confusing.txt | 3 | 3 | Luna who must eat rabbit-based food is the Riverside Luna. She wears a yellow collar. | Yes |  |
 | cat-db-fiction-confusing.txt | 4 | 3 | Based on the available information, we can conclude that Juniper cannot attend the adoption event scheduled for 2026-05-02 due to a veterinary note dated 2026-05-01 stating that Juniper must rest for seven days and cannot attend adoption events during that period. The evidence for this answer is primarily based on the veterinary note, which provides a clear restriction for Juniper. Since Jupiter has no activity restriction, it implies that Jupiter can also rest and attend the event safely. | Yes |  |
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/16a53f16-91f6-4121-b9da-e6abfb65eb20" />
